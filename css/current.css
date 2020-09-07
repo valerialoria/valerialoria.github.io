@@ -1,0 +1,17 @@
+.nav-wrapper {
+    display:flex;
+    justify-content: space-between;
+    background-color: pink;
+    font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;
+    font-weight: bold;
+    max-height: 64px;
+    min-height: 64px;
+
+}
+
+.nav-section {
+    display: flex;
+    margin-left: auto; 
+    margin-right: auto;
+    white-space: nowrap;
+}
