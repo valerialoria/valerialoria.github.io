@@ -1,3 +1,7 @@
 p{
     color: red;
 }
+
+.hummus p{
+    background: lightgrey
+}
