@@ -1,0 +1,34 @@
+.intro {
+    background-color: orange;
+}
+
+.nav-wrapper {
+    display:flex;
+    justify-content: space-between;
+    background-color:black;
+    font-weight: bold;
+    max-height: 32px;
+    min-height: 32px;
+
+}
+
+.nav-section {
+    display: flex;
+    margin-left: auto; 
+    margin-right: auto;
+    white-space: nowrap;
+}
+
+.nav-wrapper > .nav-section > div {
+    display: flex;
+    font-size: 1.5em;
+    width: 50%;
+    text-align: center;
+    margin-left: auto; 
+    margin-right: auto;
+    padding: 0 20px 0 20px; 
+}
+
+a:hover {
+    background-color:lavender;
+}
