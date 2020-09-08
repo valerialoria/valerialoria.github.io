@@ -66,3 +66,8 @@ h1{
   .hummus2{
       background-color: thistle;
   }
+
+  .posts{
+      text-align: left;
+      background-color: rgb(230, 148, 160);
+  }
